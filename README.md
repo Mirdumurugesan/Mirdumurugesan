@@ -2,7 +2,7 @@
 
 I build **LLM agents that are allowed to touch real things**: money, code, citizens' questions. So I put the rules in code, not in the prompt.
 
-Final-year Integrated M.Tech CSE · Sri Ramakrishna Engineering College, Coimbatore · 2027
+Final-year Integrated M.Tech CSE · Sri Ramakrishna Engineering College, Coimbatore · 2027<br>
 Python · FastAPI · LangGraph · Pydantic AI · RAG · React · Node · Postgres · Docker
 
 ---
